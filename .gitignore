@@ -1,0 +1,11 @@
+.env
+.DS_Store
+__pycache__/
+*.pyc
+.pytest_cache/
+qdrant_data/
+*.egg-info/
+CODELAB.md
+.venv/
+reports/_cache/
+eval_cache.py
